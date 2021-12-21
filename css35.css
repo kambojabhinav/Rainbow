@@ -1,0 +1,9 @@
+.box{margin-left: 25em; padding-top: 8em; }
+.v{height: 100px; width: 100px; background-color: red;border-radius: 4em;}
+.i{height: 90px; width: 90px; padding-bottom: 4px; background-color: orange; position: absolute; box-sizing: border-box; 
+	margin-top: 4px; margin-left: 4px;border-radius:5em;}
+.b{height: 80px; width: 80px; background-color:yellow; position: absolute; box-sizing: border-box; margin-top: 5px; margin-left: 5px;border-radius: 5em;}
+.g{height: 70px; width: 70px; background-color: green;position: absolute; box-sizing: border-box; margin-top: 4px; margin-left:4px; border-radius: 5em;}
+.y{height: 60px; width: 60px; background-color: blue; position: absolute; box-sizing: border-box; margin-top: 4px; margin-left: 4px;border-radius: 5em;}
+.o{height: 50px; width: 50px; background-color: purple; position: absolute; box-sizing: border-box; margin-top: 4px; margin-left: 4.5px;border-radius: 5em;}
+.r{height: 40px; width: 40px; background-color: violet; position: absolute; box-sizing: border-box; margin-top: 4.5px; margin-left: 5px;border-radius: 5em;}
