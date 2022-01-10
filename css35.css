@@ -7,3 +7,5 @@
 .y{height: 60px; width: 60px; background-color: blue; position: absolute; box-sizing: border-box; margin-top: 4px; margin-left: 4px;border-radius: 5em;}
 .o{height: 50px; width: 50px; background-color: purple; position: absolute; box-sizing: border-box; margin-top: 4px; margin-left: 4.5px;border-radius: 5em;}
 .r{height: 40px; width: 40px; background-color: violet; position: absolute; box-sizing: border-box; margin-top: 4.5px; margin-left: 5px;border-radius: 5em;}
+span.ab{color: aquamarine; font-family: Arial, Helvetica, sans-serif;}
+p{color: chartreuse; text-align: center; font-size: 2em; font-family: 'Times New Roman', Times, serif;}
